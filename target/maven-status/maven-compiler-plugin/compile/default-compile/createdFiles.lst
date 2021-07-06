@@ -1,0 +1,10 @@
+exampleBot\WeatherBot.class
+exampleBot\weather\Weather.class
+exampleBot\weather\Main.class
+exampleBot\DailyThread.class
+exampleBot\weather\Clouds.class
+exampleBot\weather\Coord.class
+exampleBot\weather\OpenWeatherMap.class
+exampleBot\weather\Wind.class
+exampleBot\FollowerLocation.class
+exampleBot\weather\Sys.class
